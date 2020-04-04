@@ -1,0 +1,3 @@
+# Command to grant system permission to upload code to an arduino
+sudo usermod -a -G dialout ishank
+
