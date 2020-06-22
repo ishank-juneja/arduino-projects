@@ -1,0 +1,8 @@
+ON/OFF - A4B2955B
+Temp incr - DA3034C9
+temp decr - A4EB0BAD
+fan low - F7E1B0A3
+fan med - 311A6A55 
+fan high - 7281EFA5  
+timer - 6B8A4553
+
